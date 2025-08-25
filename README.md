@@ -30,7 +30,7 @@ Advanced FiveM crafting system with weapon customization, placeable benches, and
 2. Import `database_complete.sql` into your database
 3. Add to `server.cfg`:
    ```cfg
-   ensure n4_crafting
+   ensure n4-crafting
    ```
 4. Add required items to `ox_inventory/data/items.lua`:
    ```lua
