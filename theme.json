@@ -1,0 +1,16 @@
+{
+  "name": "Holographic Interface Theme",
+  "description": "A futuristic, cyan-heavy theme for the crafting UI.",
+  "colors": {
+    "primary": "#00e5ff",
+    "secondary": "#8a99a8",
+    "accent": "#00e5ff",
+    "success": "#4dff88",
+    "warning": "#ffc107",
+    "error": "#ff4d4d",
+    "text": "#e0e0e0",
+    "textSecondary": "#8a99a8",
+    "background": "rgba(10, 20, 30, 0.5)",
+    "surface": "rgba(0, 20, 30, 0.6)"
+  }
+}
