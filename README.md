@@ -2,7 +2,11 @@
 
 Advanced FiveM crafting system with weapon customization, placeable benches, and blueprint-based recipes. made with AI tools as an expiremnetal project.
 ## Screenshots
+-Attachments Window!
 <img src="https://i.vgy.me/Oilh2E.png" alt="Oilh2E.png">
+<img src="https://i.vgy.me/b7kxBB.png" alt="b7kxBB.png">
+-Crafting Window!
+<img src="https://i.vgy.me/cy2c4N.png" alt="cy2c4N.png">
 
 ## Features
 
