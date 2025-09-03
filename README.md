@@ -1,6 +1,8 @@
 # N4 Crafting System
 
 Advanced FiveM crafting system with weapon customization, placeable benches, and blueprint-based recipes. made with AI tools as an expiremnetal project.
+## Screenshots
+https://i.vgy.me/cy2c4N.png
 
 ## Features
 
