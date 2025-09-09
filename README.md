@@ -93,7 +93,3 @@ To force players to use crafting benches for weapon customization, see [disableo
 This is a **free** resource provided **as-is** with no guaranteed support.
 
 - Report issues: [GitHub Issues](https://github.com/Nmil4/n4-crafting/issues)
-
-## License
-
-[MIT License](LICENSE) - Free to use and modify
